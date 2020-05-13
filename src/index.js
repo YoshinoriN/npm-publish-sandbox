@@ -5,7 +5,7 @@ class PublishSandBox {
   }
 
   version() {
-    console.log('this is v0.2.0');
+    console.log('this is v0.2.1');
   }
 
 }
