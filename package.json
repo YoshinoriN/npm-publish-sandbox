@@ -1,0 +1,19 @@
+{
+  "name": "npm-publish-sandbox",
+  "version": "0.0.1",
+  "description": "Just test for publish npm package",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YoshinoriN/npm-publish-sandbox.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YoshinoriN/npm-publish-sandbox/issues"
+  },
+  "homepage": "https://github.com/YoshinoriN/npm-publish-sandbox#readme"
+}
