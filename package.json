@@ -1,6 +1,6 @@
 {
   "name": "@yoshinorin/npm-publish-sandbox",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Just test for publish npm package",
   "main": "src/index.js",
   "scripts": {

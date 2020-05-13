@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@yoshinorin/npm-publish-sandbox": "0.0.1"
+    "@yoshinorin/npm-publish-sandbox": "1.0.0"
   }
 }
