@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/YoshinoriN/npm-publish-sandbox.git"
   },
+  "files": [
+    "src/"
+  ],
   "author": "",
   "license": "MIT",
   "bugs": {

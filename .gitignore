@@ -32,5 +32,3 @@ project/plugins/project/
 # Front end
 **/node_modules/*
 **/dist/*
-
-index.js
